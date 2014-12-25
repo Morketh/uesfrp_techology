@@ -33,6 +33,7 @@ CRC-16  CCITT ( Artificial Intelligence CRC )
 refrance values
 http://www.insidepro.com/hashes.php?lang=eng
 
+
 ORG codes (4 digit organization key)
 CRC Kermit codes
 

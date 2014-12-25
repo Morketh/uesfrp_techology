@@ -10,6 +10,9 @@
 # PURPOSE: servers as a back-end for the creation of ID hashes
 #
 # CREDITS: William Baggett for concept and original algorithm
+# Cristian Năvălici for the CRC code found used below https://github.com/cristianav/PyCRC
+# this code uses commit 69d47e010eecc982b3d16a794d9206bf63f12053
+# 
 #
 ##################################################################################################
 
